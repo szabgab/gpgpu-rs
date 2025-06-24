@@ -6,10 +6,10 @@ edition = "2018"
 keywords = ["gpgpu", "compute", "opencl", "cuda"]
 license = "EUPL-1.2"
 name = "gpgpu"
-repository = "https://www.github.com/UpsettingBoy/gpgpu-rs"
+repository = "https://github.com/UpsettingBoy/gpgpu-rs"
 resolver = "2"
 version = "0.2.0"
-homepage = "https://www.github.com/UpsettingBoy/gpgpu-rs"
+homepage = "https://github.com/UpsettingBoy/gpgpu-rs"
 
 
 [dependencies]
